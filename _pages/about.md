@@ -47,6 +47,7 @@ News
 - [11/2022] Congrats to Hecheng Cai's Huawei Scholarship! Note that he is one of the two students of Grade 2022 who won this award.
 - [11/2023] I have been invited to be a PC member for the IEEE/CVF Conference on Computer Vision and Pattern Recognition Conference (CVPR'24).
 - [10/2023] One paper was accepted by NeurIPS'23. Congrats to all the collaborators!
+- [09/2023] I have been invited to be a Program Chair for the 7th International Conference on Computer Science and Artificial Intelligence [(CSAI'23)](https://www.csai.org/2023.html).   
 - [07/2023] Two papers were accepted by ACM MM'23. Congrats to Yixi Liu and all the collaborators!
 - [07/2023] I have been invited to be a PC member for the 38th AAAI Conference on Artificial Intelligence (AAAI'24).
 - [07/2023] "Smooth Representation Learning from Multi-view Data" was accepted by Information Fusion. Congrats to all the collaborators!
