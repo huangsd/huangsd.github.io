@@ -27,6 +27,8 @@ I have broad interest in *Representation Learning*, *Machine Learning*, *Data Mi
 News
 ------
 - <span style="color: #FF0000">I'm always looking for highly motivated Ph.D students, Postdoctorals and Assistant Professors to conduct frontier research in our team. If interested, please drop me an email with your full CV and a research plan releated to my research interest.</span>
+- [11/2024] I have been invited to be a SPC member for the 34th International Joint Conference on Artificial Intelligence (IJCAI'25).
+- [11/2024] "Variational Graph Generator for Multi-View Graph Clustering" was accepted by IEEE TNNLS. Congrats to all the collaborators! 
 - [09/2024] I have been promoted as a Senior Member of the China Computer Federation (CCF)!
 - [09/2024] I was honored as World's Top2% Scientists in 2024 ranked by Stanford University!
 - [08/2024] I have been invited to be a PC member for the 13th International Conference on Learning Representations (ICLR'25).
