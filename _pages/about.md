@@ -27,6 +27,10 @@ I have broad interest in *Representation Learning*, *Machine Learning*, *Data Mi
 News
 ------
 - <span style="color: #FF0000">I'm always looking for highly motivated Ph.D students, Postdoctorals and Assistant Professors to conduct frontier research in our team. If interested, please drop me an email with your full CV and a research plan releated to my research interest.</span>
+- [12/2024] Three papers were accepted by AAAI'25. Congrats to Yang Liu, Peng Su, and all the collaborators!.
+- [11/2024] Congrats to Yuze Tan's National Scholarship of China! Note that this is the second time he won this award.
+- [11/2024] Congrats to Hecheng Cai's National Scholarship of China! 
+- [11/2024] Congrats to Peng Su's National Scholarship of China! Note that he is one of the students of Grade 2022 who won this award.
 - [11/2024] I have been invited to be a SPC member for the 34th International Joint Conference on Artificial Intelligence (IJCAI'25).
 - [11/2024] "Variational Graph Generator for Multi-View Graph Clustering" was accepted by IEEE TNNLS. Congrats to all the collaborators! 
 - [09/2024] I have been promoted as a Senior Member of the China Computer Federation (CCF)!
