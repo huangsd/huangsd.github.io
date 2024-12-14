@@ -28,9 +28,9 @@ News
 ------
 - <span style="color: #FF0000">I'm always looking for highly motivated Ph.D students, Postdoctorals and Assistant Professors to conduct frontier research in our team. If interested, please drop me an email with your full CV and a research plan releated to my research interest.</span>
 - [12/2024] Three papers were accepted by AAAI'25. Congrats to Yang Liu, Peng Su, and all the collaborators!.
-- [11/2024] Congrats to Yuze Tan's National Scholarship of China! Note that this is the second time he won this award.
-- [11/2024] Congrats to Hecheng Cai's National Scholarship of China! 
-- [11/2024] Congrats to Peng Su's National Scholarship of China! Note that he is one of the students of Grade 2023 who won this award.
+- [11/2024] Congrats to Yuze Tan's National Scholarship of China (国奖)! Note that this is the second time he won this award.
+- [11/2024] Congrats to Hecheng Cai's National Scholarship of China (国奖)! 
+- [11/2024] Congrats to Peng Su's National Scholarship of China (国奖)! Note that he is one of the students of Grade 2023 who won this award.
 - [11/2024] I have been invited to be a SPC member for the 34th International Joint Conference on Artificial Intelligence (IJCAI'25).
 - [11/2024] "Variational Graph Generator for Multi-View Graph Clustering" was accepted by IEEE TNNLS. Congrats to all the collaborators! 
 - [09/2024] I have been promoted as a Senior Member of the China Computer Federation (CCF)!
@@ -48,8 +48,8 @@ News
 - [01/2024] I have been invited to be a PC member for the 41st International Conference on Machine Learning (ICML'24).
 - [12/2023] One paper was accepted by AAAI'24. Congrats to Yuze Tan and all the collaborators!
 - [12/2023] I have been invited to be a SPC member for the 33rd International Joint Conference on Artificial Intelligence (IJCAI'24).
-- [11/2022] Congrats to Yixi Liu's National Scholarship of China! Note that this is the second time she won this award.
-- [11/2022] Congrats to Yuze Tan's National Scholarship of China! Note that he is one of the two students of Grade 2022 who won this award.
+- [11/2022] Congrats to Yixi Liu's National Scholarship of China (国奖)! Note that this is the second time she won this award.
+- [11/2022] Congrats to Yuze Tan's National Scholarship of China (国奖)! Note that he is one of the two students of Grade 2022 who won this award.
 - [11/2022] Congrats to Hecheng Cai's Huawei Scholarship! Note that he is one of the two students of Grade 2022 who won this award.
 - [11/2023] I have been invited to be a PC member for the IEEE/CVF Conference on Computer Vision and Pattern Recognition Conference (CVPR'24).
 - [10/2023] One paper was accepted by NeurIPS'23. Congrats to all the collaborators!
@@ -65,7 +65,7 @@ News
 - [11/2022] "Pure Graph-guided Multi-view Subspace Clustering" was accepted by Pattern Recognition. Congrats to Hongjie Wu and all the collaborators!
 - [11/2022] The latest version of our survey work about *DNNs for PDEs* has been released on [arXiv](https://arxiv.org/abs/2211.05567). Here is a [report](https://mp.weixin.qq.com/s/NkTzXwhEzUYqsf3oT-50IQ).
 - [11/2022] I have been invited to be a PC member for the IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR'23).
-- [10/2022] Congrats to Yixi Liu's National Scholarship of China! Note that she is the only student of Grade 2021 who won this award. [[Link]](https://mp.weixin.qq.com/s/etH5uk5sC4ErkOZuNwfanA) 
+- [10/2022] Congrats to Yixi Liu's National Scholarship of China (国奖)! Note that she is the only student of Grade 2021 who won this award. [[Link]](https://mp.weixin.qq.com/s/etH5uk5sC4ErkOZuNwfanA) 
 - [09/2022] One paper was accepted by NeurIPS'22. Congrats to Hongjie Wu and all the collaborators!
 - [09/2022] I have been invited to be a Program Co-Chair for the 6th International Conference on Computer Science and Artificial Intelligence [(CSAI'22)](http://www.csai.org/index.html).
 - [08/2022] "CGDD: Multi-view Graph Clustering via Cross-graph Diversity Detection" was accepted by IEEE TNNLS. Congrats to all the collaborators!
