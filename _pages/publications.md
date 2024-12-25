@@ -13,7 +13,7 @@ author_profile: true
 ## 2025
 1. Yang Liu, **Shudong Huang***, Deng Xiong, and Jiancheng Lv. Learning Dynamic Similarity By Bidirectional Hierarchical Sliding Semantic Probe For Efficient Text Video Retrieval. In: <i>Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI'25)<i>, Philadelphia, USA, 2025, to appear. (<span style="color: #FF0000">CCF-A</span>) [Link] [Source Code]
 2. Yang Liu, Mengyuan Liu, **Shudong Huang**, and Jiancheng Lv. Asymmetric Visual Semantic Embedding Framework for Efficient Vision-Language Alignment. In: <i>Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI'25)<i>, Philadelphia, USA, 2025, to appear. (<span style="color: #FF0000">CCF-A</span>) [Link] [Source Code]
-3. Peng Su, **Shudong Huang***, weihongma, Deng Xiong, and Jiancheng Lv. Multi-view Granular-ball Contrastive Clustering. In: <i>Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI'25)<i>, Philadelphia, USA, 2025, to appear. (<span style="color: #FF0000">CCF-A</span>) [Link] [Source Code]
+3. Peng Su, **Shudong Huang***, Weihong Ma, Deng Xiong, and Jiancheng Lv. Multi-view Granular-ball Contrastive Clustering. In: <i>Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI'25)<i>, Philadelphia, USA, 2025, to appear. (<span style="color: #FF0000">CCF-A</span>) [Link] [Source Code]
 
 ## 2024
 1. Jianpeng Chen, Yawen Ling, Jie Xu, Yazhou Ren, **Shudong Huang**, Xiaorong Pu, Zhifeng Hao, Philip S. Yu, and Lifang He. Variational Graph Generator for Multi-View Graph Clustering. <i>IEEE Transactions on Neural Networks and Learning Systems<i>, 2024, in press. [Link] [Source Code] [IF<sub>2024</sub>: 10.2]
