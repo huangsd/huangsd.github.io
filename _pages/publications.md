@@ -10,6 +10,11 @@ author_profile: true
 1. **Shudong Huang**#, Wentao Feng#, Chenwei Tang, Zhenan He, Caiyang Yu, and Jiancheng Lv. Partial Differential Equations Meet Deep Neural Networks: A Survey. [[arXiv]](https://arxiv.org/abs/2211.05567) [[report]](https://mp.weixin.qq.com/s/NkTzXwhEzUYqsf3oT-50IQ).
 2. **Shudong Huang**, Hecheng Cai, Ivor W. Tsang, Zenglin Xu, and Jiancheng Lv. Topological Manifold Learning for Multi-view Clustering.
 
+## 2025
+1. Yang Liu, **Shudong Huang***, Deng Xiong, and Jiancheng Lv. Learning Dynamic Similarity By Bidirectional Hierarchical Sliding Semantic Probe For Efficient Text Video Retrieval. In: <i>Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI'25)<i>, Philadelphia, USA, 2025, to appear. (<span style="color: #FF0000">CCF-A</span>) [Link] [Source Code]
+2. Yang Liu, Mengyuan Liu, **Shudong Huang**, and Jiancheng Lv. Asymmetric Visual Semantic Embedding Framework for Efficient Vision-Language Alignment. In: <i>Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI'25)<i>, Philadelphia, USA, 2025, to appear. (<span style="color: #FF0000">CCF-A</span>) [Link] [Source Code]
+3. Peng Su, **Shudong Huang***, weihongma, Deng Xiong, and Jiancheng Lv. Multi-view Granular-ball Contrastive Clustering. In: <i>Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI'25)<i>, Philadelphia, USA, 2025, to appear. (<span style="color: #FF0000">CCF-A</span>) [Link] [Source Code]
+
 ## 2024
 1. Jianpeng Chen, Yawen Ling, Jie Xu, Yazhou Ren, **Shudong Huang**, Xiaorong Pu, Zhifeng Hao, Philip S. Yu, and Lifang He. Variational Graph Generator for Multi-View Graph Clustering. <i>IEEE Transactions on Neural Networks and Learning Systems<i>, 2024, in press. [Link] [Source Code] [IF<sub>2024</sub>: 10.2]
 2. **Shudong Huang**, Hecheng Cai, Hao Dai, Wentao Feng, and Jiancheng Lv. Adaptive Instance-wise Multi-view Clustering. In: <i>Proceedings of the 32nd ACM International Conference on Multimedia (ACM MM'24)<i>, Melbourne, Australia, 2024, pp: 5299-5307. (<span style="color: #FF0000">CCF-A</span>) [[Link]](https://dl.acm.org/doi/abs/10.1145/3664647.3681335) [Source Code] 
