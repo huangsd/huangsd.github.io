@@ -27,6 +27,7 @@ I have broad interest in *Representation Learning*, *Machine Learning*, *Data Mi
 News
 ------
 - <span style="color: #FF0000">I'm always looking for highly motivated Ph.D students, Postdoctorals and Assistant Professors to conduct frontier research in our team. If interested, please drop me an email with your full CV and a research plan releated to my research interest.</span>
+- [01/2025] "STSF: Spiking Time Sparse Feedback Learning for Spiking Neural Networks" was accepted by IEEE TNNLS. Congrats to all the collaborators!
 - [12/2024] I have been invited to be a PC member for the 42nd International Conference on Machine Learning (ICML'25).
 - [12/2024] Three papers were accepted by AAAI'25. Congrats to Yang Liu, Peng Su, and all the collaborators!
 - [11/2024] Congrats to Yuze Tan's National Scholarship of China (国奖)! Note that this is the second time he won this award.
