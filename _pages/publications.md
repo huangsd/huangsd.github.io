@@ -7,8 +7,7 @@ author_profile: true
 *indicating the corresponding author \
 #indicating the co-first author
 ## Manuscript/Preprints
-1. **Shudong Huang**#, Wentao Feng#, Chenwei Tang, Zhenan He, Caiyang Yu, and Jiancheng Lv. Partial Differential Equations Meet Deep Neural Networks: A Survey. [[arXiv]](https://arxiv.org/abs/2211.05567) [[report]](https://mp.weixin.qq.com/s/NkTzXwhEzUYqsf3oT-50IQ).
-2. **Shudong Huang**, Hecheng Cai, Ivor W. Tsang, Zenglin Xu, and Jiancheng Lv. Topological Manifold Learning for Multi-view Clustering.
+1. Wentao Feng#, **Shudong Huang**#, Jianfeng Liu, and Jiancheng Lv. Deep Neural Networks Meet Partial Differential Equations: A comprehensive Survey.
 
 ## 2025
 1. **Shudong Huang**, Wentao Feng, Chenwei Tang, Zhenan He, Caiyang Yu, and Jiancheng Lv. Partial Differential Equations Meet Deep Neural Networks: A Survey. <i>IEEE Transactions on Neural Networks and Learning Systems<i>, 2025, in press. [Link] [Source Code]
