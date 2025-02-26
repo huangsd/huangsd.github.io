@@ -10,7 +10,7 @@ author_profile: true
 1. Wentao Feng#, **Shudong Huang**#, Jianfeng Liu, and Jiancheng Lv. Deep Neural Networks Meet Partial Differential Equations: A Comprehensive Survey.
 
 ## 2025
-1. **Shudong Huang**, Wentao Feng, Chenwei Tang, Zhenan He, Caiyang Yu, and Jiancheng Lv. Partial Differential Equations Meet Deep Neural Networks: A Survey. <i>IEEE Transactions on Neural Networks and Learning Systems<i>, 2025, in press. [Link] [Source Code]
+1. **Shudong Huang**#, Wentao Feng#, Chenwei Tang, Zhenan He, Caiyang Yu, and Jiancheng Lv. Partial Differential Equations Meet Deep Neural Networks: A Survey. <i>IEEE Transactions on Neural Networks and Learning Systems<i>, 2025, in press. [Link] [Source Code]
 2. Rong Xiao, Ping He, Chenwei Tang, **Shudong Huang**, Jiancheng Lv, and Huajin Tang. STSF: Spiking Time Sparse Feedback Learning for Spiking Neural Networks. <i>IEEE Transactions on Neural Networks and Learning Systems<i>, 2025, in press. [[Link]](https://ieeexplore.ieee.org/document/10847298) [Source Code] [IF<sub>2024</sub>: 10.2]
 3. Yang Liu, **Shudong Huang***, Deng Xiong, and Jiancheng Lv. Learning Dynamic Similarity By Bidirectional Hierarchical Sliding Semantic Probe For Efficient Text Video Retrieval. In: <i>Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI'25)<i>, Philadelphia, USA, 2025, to appear. (<span style="color: #FF0000">CCF-A</span>) [Link] [Source Code]
 4. Yang Liu, Mengyuan Liu, **Shudong Huang**, and Jiancheng Lv. Asymmetric Visual Semantic Embedding Framework for Efficient Vision-Language Alignment. In: <i>Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI'25)<i>, Philadelphia, USA, 2025, to appear. (<span style="color: #FF0000">CCF-A</span>) [Link] [Source Code]
