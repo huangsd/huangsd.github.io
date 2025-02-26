@@ -7,7 +7,7 @@ author_profile: true
 *indicating the corresponding author \
 #indicating the co-first author
 ## Manuscript/Preprints
-1. Wentao Feng#, **Shudong Huang**#, Jianfeng Liu, and Jiancheng Lv. Deep Neural Networks Meet Partial Differential Equations: A comprehensive Survey.
+1. Wentao Feng#, **Shudong Huang**#, Jianfeng Liu, and Jiancheng Lv. Deep Neural Networks Meet Partial Differential Equations: A Comprehensive Survey.
 
 ## 2025
 1. **Shudong Huang**, Wentao Feng, Chenwei Tang, Zhenan He, Caiyang Yu, and Jiancheng Lv. Partial Differential Equations Meet Deep Neural Networks: A Survey. <i>IEEE Transactions on Neural Networks and Learning Systems<i>, 2025, in press. [Link] [Source Code]
