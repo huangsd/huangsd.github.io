@@ -27,6 +27,7 @@ I have broad interest in *Representation Learning*, *Machine Learning*, *Data Mi
 News
 ------
 - <span style="color: #FF0000">I'm always looking for highly motivated Ph.D students, Postdoctorals and Assistant Professors to conduct frontier research in our team. If interested, please drop me an email with your full CV and a research plan releated to my research interest.</span>
+- [04/2025] I have been invited to be a PC member for the 39th Annual Conference on Neural Information Processing Systems (NeurIPS'25).
 - [03/2025] I have been invited to be an Area Chair for the 33rd ACM International Conference on Multimedia (ACM MM'25).
 - [02/2025] "Partial Differential Equations Meet Deep Neural Networks: A Survey" was accepted by IEEE TNNLS. Congrats to all the collaborators!
 - [01/2025] "STSF: Spiking Time Sparse Feedback Learning for Spiking Neural Networks" was accepted by IEEE TNNLS. Congrats to all the collaborators!
