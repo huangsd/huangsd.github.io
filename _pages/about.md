@@ -27,6 +27,7 @@ I have broad interest in *Representation Learning*, *Machine Learning*, *Data Mi
 News
 ------
 - <span style="color: #FF0000">I'm always looking for highly motivated Ph.D students, Postdoctorals and Assistant Professors to conduct frontier research in our team. If interested, please drop me an email with your full CV and a research plan releated to my research interest.</span>
+- [05/2025] "Implicit Multi-Behavior Generative Recommendation with Mixture of Quantization" was accepted by IEEE TKDE. Congrats to Yuze Tan and all the collaborators!
 - [04/2025] One paper was accepted by IJCAI'25. Congrats to all the collaborators!
 - [04/2025] I have been invited to be a PC member for the 39th Annual Conference on Neural Information Processing Systems (NeurIPS'25).
 - [03/2025] I have been invited to be an Area Chair for the 33rd ACM International Conference on Multimedia (ACM MM'25).
