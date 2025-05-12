@@ -5,12 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 *indicating the corresponding author \
-#indicating the co-first author
+#indicating the co-first/co-corresponding author
 ## Manuscript/Preprints
 1. Wentao Feng#, **Shudong Huang**#, Jianfeng Liu, and Jiancheng Lv. Deep Neural Networks Meet Partial Differential Equations: A Comprehensive Survey.
 
 ## 2025
-1. Yuze Tan, Yanjie Gou, Kouying Xue, **Shudong Huang***, Yi Hu*, Ivor W. Tsang, and Jiancheng Lv. Implicit Multi-Behavior Generative Recommendation with Mixture of Quantization. <i>IEEE Transactions on Knowledge and Data Engineering<i>, 2025, in press. [Link] [Source Code] [IF<sub>2024</sub>: 8.9]
+1. Yuze Tan, Yanjie Gou, Kouying Xue, **Shudong Huang**#, Yi Hu#, Ivor W. Tsang, and Jiancheng Lv. Implicit Multi-Behavior Generative Recommendation with Mixture of Quantization. <i>IEEE Transactions on Knowledge and Data Engineering<i>, 2025, in press. [Link] [Source Code] [IF<sub>2024</sub>: 8.9]
 2. **Shudong Huang**, Rui Huang, Ming Hu, Wentao Feng, and Jiancheng Lv. DONIS: Importance Sampling for Training Physics-Informed DeepONet. In: <i>Proceedings of the 34th International Joint Conference on Artificial Intelligence (IJCAI'25)<i>, Montreal, Canada, 2025, to appear. (<span style="color: #FF0000">CCF-A</span>) [Link] [Source Code]
 3. **Shudong Huang**#, Wentao Feng#, Chenwei Tang, Zhenan He, Caiyang Yu, and Jiancheng Lv. Partial Differential Equations Meet Deep Neural Networks: A Survey. <i>IEEE Transactions on Neural Networks and Learning Systems<i>, 2025, in press. [[Link]](https://ieeexplore.ieee.org/document/10926849) [Source Code] [IF<sub>2024</sub>: 10.2]
 4. Rong Xiao, Ping He, Chenwei Tang, **Shudong Huang**, Jiancheng Lv, and Huajin Tang. STSF: Spiking Time Sparse Feedback Learning for Spiking Neural Networks. <i>IEEE Transactions on Neural Networks and Learning Systems<i>, 2025, in press. [[Link]](https://ieeexplore.ieee.org/document/10847298) [Source Code] [IF<sub>2024</sub>: 10.2]
