@@ -18,6 +18,7 @@ Students:
 * Hecheng Cai &#8194; &#160; Ph.D Student &#8195; Sep. 2025- &#8195; Multimodal Learning
 * Zhaoxin Zhu &#8194; &#160; Ph.D Student &#8195; Sep. 2025- &#8195; Multimodal Learning (co-advised with Prof. [Quanhui Liu](https://cs.scu.edu.cn/info/1283/13568.htm))
 * Jing Gong &#8194; &#8194; &#8194; Ph.D Student &#8195; Sep. 2025- &#8195; Multimodal Learning
+* Jiazhong Zhou &#160; Ph.D Student &#8195; Sep. 2025- &#8195; AI4Science (co-advised with Prof. [Jianfeng Liu](https://cwrh.scu.edu.cn/info/1044/1993.htm))
 
 Alumni:
 ------
