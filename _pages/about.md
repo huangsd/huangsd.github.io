@@ -27,6 +27,7 @@ I have broad interest in *Representation Learning*, *Machine Learning*, *Data Mi
 News
 ------
 - <span style="color: #FF0000">I'm always looking for highly motivated Ph.D students, Postdoctorals and Assistant Professors to conduct frontier research in our team. If interested, please drop me an email with your full CV and a research plan releated to my research interest.</span>
+- [07/2025] I have been invited to be a PC member for the 40th AAAI Conference on Artificial Intelligence (AAAI'26).
 - [07/2025] One paper was accepted by ACM MM'25. Congrats to all the collaborators!
 - [06/2025] One paper was accepted by ICCV'25. Congrats to Yang Liu and all the collaborators!
 - [05/2025] Congrats to Yuze Tan and Hecheng Cai. Master's thesis defense was held successfully!
