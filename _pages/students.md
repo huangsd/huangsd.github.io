@@ -7,11 +7,11 @@ author_profile: true
 
 Students:
 ------
-* Peng Su &#8194; &#8194; &#8194; &#160; M.Sc. Student &#8195; Sep. 2023- &#8195; Equivariant Learning &#8195; &#8195; &#8195; &#8195; &#8195; &#8195; &#8195; IJCAI'24, ICML'24, National Scholarship'24 (国奖), AAAI'25
+* Peng Su &#8194; &#8194; &#8194; &#160; M.Sc. Student &#8195; Sep. 2023- &#8195; Equivariant Learning &#8195; &#8195; &#8195; &#8195; &#8195; &#8195; &#8195; IJCAI'24, ICML'24, National Scholarship'24 (国奖), AAAI'25, SCU First Class Scholarship'25 (一等奖学金)
 * Hao Dai &#8195; &#8194; &#8194; M.Sc. Student &#8195; Sep. 2023- &#8195; Reinforcement Learning &#8195; &#8195; &#8195; &#8195; &#8195; &#160; ICML'24, ACM MM'24
 * Rui Huang &#8194; &#8194; &#160; M.Sc. Student &#8195; Sep. 2023- &#8195; AI4Science (co-advised with Prof. [Wentao Feng](https://cs.scu.edu.cn/info/1359/17839.htm))
 * Hongjie Wu &#8194; &#160; Ph.D Student &#8195; Sep. 2022- &#8195; Deep Learning (co-advised with Prof. [Jiancheng Lv](https://cs.scu.edu.cn/info/1303/13767.htm))
-* Yang Liu &#8194; &#8194; &#8194; &#160; Ph.D Student &#8195; Sep. 2023- &#8195; Embodied Learning &#8195; &#8195; &#8195; &#8195; &#8195; &#8195; &#8195; ACM MM'23, IJCAI'24, ICML'24, AAAI'25*2, ICCV'25
+* Yang Liu &#8194; &#8194; &#8194; &#160; Ph.D Student &#8195; Sep. 2023- &#8195; Embodied Learning &#8195; &#8195; &#8195; &#8195; &#8195; &#8195; &#8195; ACM MM'23, IJCAI'24, ICML'24, AAAI'25*2, ICCV'25, SCU First Class Scholarship'25 (一等奖学金)
 * Ping He &#8194; &#8194; &#8194; &#160;&#160; Ph.D Student &#8195; Sep. 2024- &#8195; Neuromorphic Computing (co-advised with Prof. [Rong Xiao](https://cs.scu.edu.cn/info/1289/18041.htm))
 * Xinliu Liu &#8194; &#8194; &#160; &#160; Ph.D Student &#8195; Sep. 2024- &#8195; Multimodal Learning (co-advised with Prof. [Dezhong Peng](https://cs.scu.edu.cn/info/1282/13563.htm))
 * Zhiwen cao &#8194; &#8194;  Ph.D Student &#8195; Sep. 2024- &#8195; Multimodal Continual Learning &#8195; &#8195; &#8195; &#8195; &#8195; &#8195; &#8195;
