@@ -84,7 +84,7 @@ author_profile: true
 4. **Shudong Huang**, Hongjun Wang, Tao Li, Taoianrui Li, and Zenglin Xu. Robust Graph Regularized Nonnegative Matrix Factorization for Clustering. <i>Data Mining and Knowledge Discovery</i>, 2018, 32 (2): 483-503. [[Link]](https://link.springer.com/article/10.1007/s10618-017-0543-9) [Source Code] [IF<sub>2018</sub>: 2.481]
 
 ## 2017 and before
-1. **Shudong Huang**, Zenglin Xu, and Fei Wang. Nonnegative Matrix Factorization with Adaptive Neighbors. In: <i>Proceedings of the 30th International Joint Conference on Neural Networks (IJCNN'17)</i>, Anchorage, Alaska, 2017, pp: 486-493. [[Link]](https://ieeexplore.ieee.org/abstract/document/7965893) [[Source Code]](https://github.com/huangsd/NMFAN) 
+1. **Shudong Huang**, Zenglin Xu, and Fei Wang. Nonnegative Matrix Factorization with Adaptive Neighbors. In: <i>Proceedings of the 30th International Joint Conference on Neural Networks (IJCNN'17)</i>, Anchorage, Alaska, 2017, pp: 486-493. [[Link]](https://ieeexplore.ieee.org/abstract/document/7965893) [[Source Code]](https://github.com/huangsd/NMFAN)  <!-- 14-19 May 2017 -->
 2. **Shudong Huang**, Hongjun Wang, Tao Li, Yan Yang, and Tianrui Li. Constraint Co-projections for Semi-supervised Co-clustering. <i>IEEE Transactions on Cybernetics</i>, 2016, 46(12): 3047-3058. [[Link]](https://ieeexplore.ieee.org/abstract/document/7328720) [[Source Code]](https://github.com/huangsd/CPSSCC) [IF<sub>2016</sub>: 4.934]
 3. **Shudong Huang**, Hongjun Wang, Dingcheng Li, Yan Yang, and Tianrui Li. Spectral Co-clustering Ensemble. <i>Knowledge-Based Systems</i>, 2015, 84: 46-55. [[Link]](https://www.sciencedirect.com/science/article/pii/S0950705115001318) [Source Code] [IF<sub>2015</sub>: 2.947] [p.d.: Aug. 2015]
 
@@ -92,6 +92,7 @@ author_profile: true
 <!--
  2024, 38(14): 15258-15266.
 -->
+
 
 
 
