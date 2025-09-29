@@ -42,7 +42,7 @@ author_profile: true
 8. Yuze Tan, Yixi Liu, Hongjie Wu, Jiancheng Lv, and **Shudong Huang***. Metric Multi-view Graph Clustering. In: <i>Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI'23)<i>, Washington, DC, 2023, pp: 9962-9970. (<span style="color: #FF0000">CCF-A</span>) [[Link]](https://ojs.aaai.org/index.php/AAAI/article/view/26188) [[Source Code]](https://github.com/huangsd/MMGC)
 9. Zongmo Huang, Yazhou Ren, Xiaorong Pu, **Shudong Huang**, Zenglin Xu, and Lifang He. Self-Supervised Graph Attention Networks for Deep Weighted Multi-View Clustering. In: <i>Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI'23)<i>, Washington, DC, 2023, pp: 7936-7943. (<span style="color: #FF0000">CCF-A</span>) [[Link]](https://ojs.aaai.org/index.php/AAAI/article/view/25960) [Source Code]
 10. Hongjie Wu, **Shudong Huang***, Chenwei Tang, Yancheng Zhang, and Jiancheng Lv. Pure Graph-guided Multi-view Subspace Clustering. <i>Pattern Recognition</i>, 2023, in press. [[Link]](https://www.sciencedirect.com/science/article/pii/S0031320322006665) [[Source Code]](https://github.com/74587887/PGSC_code) [IF<sub>2023</sub>: 8.0]
-11. Xinggu Liu, Zhiming Long, Zongyuan Li, **Shudong Huang**, and Zhuqing Wang. An Improved Adaptive Periodical Segment Matrix Algorithm for ECG Denoising based on Singular Value Decomposition. <i>Technology and Health Care</i>, 2023, 31(1): 269-281. [[Link]](https://pubmed.ncbi.nlm.nih.gov/36031921/) [Source Code] [IF<sub>2023</sub>: 1.6]
+11. Xinggu Liu, Zhiming Long, Zongyuan Li, **Shudong Huang**, and Zhuqing Wang. An Improved Adaptive Periodical Segment Matrix Algorithm for ECG Denoising based on Singular Value Decomposition. <i>Technology and Health Care</i>, 2023, 31(1): 269-281. [[Link]](https://pubmed.ncbi.nlm.nih.gov/36031921/) [Source Code] [IF<sub>2023</sub>: 1.6] [Issue Date: 01. Jan. 2023]
 12. **Shudong Huang**, Yixi Liu, Ivor W. Tsang, Zenglin Xu, and Jiancheng Lv. Multi-view Subspace Clustering by Joint Measuring of Consistency and Diversity. <i>IEEE Transactions on Knowledge and Data Engineering</i>, 2023, 35(8): 8270-8281. (<span style="color: #FF0000">CCF-A</span>) [[Link]](https://ieeexplore.ieee.org/document/9860070) [[Source Code]](https://github.com/huangsd/MVSC-via-Cross-view-Diversity-Detection) [IF<sub>2023</sub>: 9.235] [Issue Date: 01. Aug. 2023]
 13. **Shudong Huang**, Ivor W. Tsang, Zenglin Xu, and Jiancheng Lv. Latent Representation Guided Multi-view Clustering. <i>IEEE Transactions on Knowledge and Data Engineering</i>, 2023, 35(7): 7082-7087. (<span style="color: #FF0000">CCF-A</span>) [[Link]](https://ieeexplore.ieee.org/abstract/document/9839553) [[Source Code]](https://github.com/huangsd/Latent-Representation-Guided-MVC) [IF<sub>2023</sub>: 9.235] [Issue Date: 01. Jul. 2023]
 
@@ -95,6 +95,7 @@ author_profile: true
 Published 23 October 2017
 Date of Conference: 14-19 May 2017
 -->
+
 
 
 
