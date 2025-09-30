@@ -12,7 +12,7 @@ author_profile: true
 ## 2025
 1. Yifan Wang, Tao Wang, Chenwei Tang, Caiyang Yu, Zhengqing Zang, Mengmi Zhang, **Shudong Huang**, and Jiancheng Lv. Dual Prompt Learning for Adapting Vision-Language Models to Downstream Image-Text Retrieval. In: <i>Proceedings of the 33rd ACM International Conference on Multimedia (ACM MM'25)<i>, Dublin, lreland, 2025, to appear. (<span style="color: #FF0000">CCF-A</span>) [Link] [Source Code] [D.o.C: 27–31. Oct. 2025, Issue Date: --]
 2. Yang Liu, Wentao Feng, Zhuoyao Liu, **Shudong Huang***, and Jiancheng Lv. Aligning Information Capacity Between Vision and Language via Dense-to-Sparse Feature Distillation for Image-Text matching. In: <i>Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV'25)<i>, Honolulu, Hawai'i, 2025, to appear. (<span style="color: #FF0000">CCF-A</span>) [Link] [[Source Code]](https://github.com/liuyyy111/d2s-vse) [D.o.C: 19–23. Oct. 2025, Issue Date: --]
-3. Wentao Feng, Ming Hu, Rui Huang, Chenwei Tang, **Shudong Huang***, and Jiancheng Lv. DSAIS-PINN: Dynamic Seeds Allocation Importance Sampling for Physics-informed Neural Networks. <i>Neurocomputing<i>, 2025, in press. [[Link]](https://www.sciencedirect.com/science/article/pii/S0925231225012500) [Source Code] [IF<sub>2024</sub>: 6.5] [Issue Date: 01. Oct. 2025]
+3. Wentao Feng, Ming Hu, Rui Huang, Chenwei Tang, **Shudong Huang***, and Jiancheng Lv. DSAIS-PINN: Dynamic Seeds Allocation Importance Sampling for Physics-Informed Neural Networks. <i>Neurocomputing<i>, 2025, in press. [[Link]](https://www.sciencedirect.com/science/article/pii/S0925231225012500) [Source Code] [IF<sub>2024</sub>: 6.5] [Issue Date: 01. Oct. 2025]
 4. Yuze Tan, Yanjie Gou, Kouying Xue, **Shudong Huang**#, Yi Hu#, Ivor W. Tsang, and Jiancheng Lv. Implicit Multi-Behavior Generative Recommendation with Mixture of Quantization. <i>IEEE Transactions on Knowledge and Data Engineering<i>, 2025, 37(8): 4704-4715. (<span style="color: #FF0000">CCF-A</span>) [[Link]](https://ieeexplore.ieee.org/document/11007466) [Source Code] [IF<sub>2024</sub>: 8.9] [Issue Date: Aug. 2025]
 5. **Shudong Huang**, Rui Huang, Ming Hu, Wentao Feng, and Jiancheng Lv. DONIS: Importance Sampling for Training Physics-Informed DeepONet. In: <i>Proceedings of the 34th International Joint Conference on Artificial Intelligence (IJCAI'25)<i>, Montreal, Canada, 2025, to appear. (<span style="color: #FF0000">CCF-A</span>) [[Link]](https://www.ijcai.org/proceedings/2025/603) [Source Code] [D.o.C: 29-31. Aug. 2025, Issue Date: Aug. 2025]
 6. **Shudong Huang**#, Wentao Feng#, Chenwei Tang, Zhenan He, Caiyang Yu, and Jiancheng Lv. Partial Differential Equations Meet Deep Neural Networks: A Survey. <i>IEEE Transactions on Neural Networks and Learning Systems<i>, 2025, 36(8): 13649-13669. [[Link]](https://ieeexplore.ieee.org/document/10926849) [Source Code] [IF<sub>2024</sub>: 10.2] [Issue Date: Aug. 2025]
@@ -96,6 +96,7 @@ author_profile: true
 Published 23 October 2017
 Date of Conference: 14-19 May 2017
 -->
+
 
 
 
