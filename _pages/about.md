@@ -27,6 +27,7 @@ I have broad interest in *Representation Learning*, *Machine Learning*, *Data Mi
 News
 ------
 - <span style="color: #FF0000">I'm always looking for highly motivated Ph.D students, Postdoctorals and Assistant Professors to conduct frontier research in our team. If interested, please drop me an email with your full CV and a research plan releated to my research interest.</span>
+- [10/2025] Congrats to Yang Liu's National Scholarship of China (国奖)!
 - [09/2025] I have been invited to be a PC member for the 14th International Conference on Learning Representations (ICLR'26)
 - [09/2025] I have been invited to be a PC member for the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'26)
 - [07/2025] I have been invited to be a PC member for the 40th AAAI Conference on Artificial Intelligence (AAAI'26).
@@ -103,6 +104,7 @@ Basic Building B318, College of Computer Science, Sichuan University (Wangjiang 
 <!-- - [04/2024] 受邀担任[国家自然科学基金委](https://www.nsfc.gov.cn/)基金评审人. -->
 
 <!-- - [05/2022] 受邀担任[国家自然科学基金委](https://www.nsfc.gov.cn/)基金评审人. -->
+
 
 
 
