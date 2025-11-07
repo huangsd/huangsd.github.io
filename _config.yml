@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Shudong Huang"
+title                    : "Dr. Shu-Dong Huang"
 title_separator          : "-"
-name                     : &name "Shudong Huang"
+name                     : &name "Shu-Dong Huang"
 description              : &description "personal description"
 url                      : https://huangsd.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -309,3 +309,4 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
