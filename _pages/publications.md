@@ -7,7 +7,7 @@ author_profile: true
 *indicating the corresponding author \
 #indicating the co-first/co-corresponding author
 ## Manuscript/Preprints
-1. Wentao Feng#, **Shudong Huang**#, Jianfeng Liu, and Jiancheng Lv. Deep Neural Networks Meet Partial Differential Equations: A Comprehensive Survey.
+1. Wentao Feng#, **Shu-Dong Huang**#, Jianfeng Liu, and Jiancheng Lv. Deep Neural Networks Meet Partial Differential Equations: A Comprehensive Survey.
 
 ## 2025
 1. Yifan Wang, Tao Wang, Chenwei Tang, Caiyang Yu, Zhengqing Zang, Mengmi Zhang, **Shudong Huang**, and Jiancheng Lv. Dual Prompt Learning for Adapting Vision-Language Models to Downstream Image-Text Retrieval. In: <i>Proceedings of the 33rd ACM International Conference on Multimedia (ACM MM'25)<i>, Dublin, lreland, 2025, to appear. (<span style="color: #FF0000">CCF-A</span>) [Link] [Source Code] [D.o.C: 27–31. Oct. 2025, Issue Date: --]
@@ -96,6 +96,7 @@ author_profile: true
 Published 23 October 2017
 Date of Conference: 14-19 May 2017
 -->
+
 
 
 
