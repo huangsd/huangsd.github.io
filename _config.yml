@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shudong Huang"
+  name             : "Shu-Dong Huang"
   avatar           : "huangsd1.png"
   bio              : "Associate Professor of Computer Science, Sichuan University"
   location         : "Chengdu, China"
@@ -309,4 +309,5 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
 
