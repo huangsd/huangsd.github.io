@@ -9,6 +9,10 @@ author_profile: true
 ## Manuscript/Preprints
 1. Wentao Feng#, **Shu-Dong Huang**#, Jianfeng Liu, and Jiancheng Lv. Deep Neural Networks Meet Partial Differential Equations: A Comprehensive Survey.
 
+## 2026
+1. Zhuoyao Liu, Yang Liu, Wentao Feng, and **Shudong Huang***. PCSR: Pseudo-label Consistency-Guided Sample Refinement for Noisy Correspondence Learning. In: <i>Proceedings of the 40th AAAI Conference on Artificial Intelligence (AAAI'26)<i>, Singapore, 2026, to appear. (<span style="color: #FF0000">CCF-A</span>) [Link] [Source Code] [D.o.C: 20–27. Jan. 2026, Issue Date: --]
+2. Ping He, Rong Xiao, Wanying Xu, Chenwei Tang, **Shudong Huang**, and Huajin Tang. S3Net: Spatiotemporally Separated Sparse Network for Neuromorphic Vision Processing. In: Proceedings of the 40th AAAI Conference on Artificial Intelligence (AAAI'26), Singapore, 2026, to appear. (<span style="color: #FF0000">CCF-A</span>) [Link] [Source Code] [D.o.C: 20–27. Jan. 2026, Issue Date: --]
+
 ## 2025
 1. Yifan Wang, Tao Wang, Chenwei Tang, Caiyang Yu, Zhengqing Zang, Mengmi Zhang, **Shudong Huang**, and Jiancheng Lv. Dual Prompt Learning for Adapting Vision-Language Models to Downstream Image-Text Retrieval. In: <i>Proceedings of the 33rd ACM International Conference on Multimedia (ACM MM'25)<i>, Dublin, lreland, 2025, to appear. (<span style="color: #FF0000">CCF-A</span>) [Link] [Source Code] [D.o.C: 27–31. Oct. 2025, Issue Date: --]
 2. Yang Liu, Wentao Feng, Zhuoyao Liu, **Shudong Huang***, and Jiancheng Lv. Aligning Information Capacity Between Vision and Language via Dense-to-Sparse Feature Distillation for Image-Text matching. In: <i>Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV'25)<i>, Honolulu, Hawai'i, 2025, to appear. (<span style="color: #FF0000">CCF-A</span>) [Link] [[Source Code]](https://github.com/liuyyy111/d2s-vse) [D.o.C: 19–23. Oct. 2025, Issue Date: --]
@@ -96,6 +100,7 @@ author_profile: true
 Published 23 October 2017
 Date of Conference: 14-19 May 2017
 -->
+
 
 
 
