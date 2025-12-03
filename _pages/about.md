@@ -27,6 +27,7 @@ I have broad interest in *Representation Learning*, *Machine Learning*, *Data Mi
 News
 ------
 - <span style="color: #FF0000">I'm always looking for highly motivated Ph.D students, Postdoctorals and Assistant Professors to conduct frontier research in our team. If interested, please drop me an email with your full CV and a research plan releated to my research interest.</span>
+- [12/2025] "FDNet: High-Frequency Disentanglement Network with Information-Theoretic Guidance for Multivariate Time Series Forecasting" was accepted by Pattern Recognition. Congrats to all the collaborators!
 - [12/2025] I have been invited to be an Area Chair for the IEEE International Conference on Multimedia & Expo (ICME'26) 
 - [11/2025] Two papers were accepted by AAAI'26. Congrats to all the collaborators!
 - [11/2025] I have been invited to be an Editorial Board member for the Discover Artificial Intelligence!
@@ -107,6 +108,7 @@ Basic Building B318, College of Computer Science, Sichuan University (Wangjiang 
 <!-- - [04/2024] 受邀担任[国家自然科学基金委](https://www.nsfc.gov.cn/)基金评审人. -->
 
 <!-- - [05/2022] 受邀担任[国家自然科学基金委](https://www.nsfc.gov.cn/)基金评审人. -->
+
 
 
 
