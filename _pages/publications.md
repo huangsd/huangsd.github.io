@@ -12,7 +12,7 @@ author_profile: true
 ## 2026
 1. Zhuoyao Liu, Yang Liu, Wentao Feng, and **Shudong Huang***. PCSR: Pseudo-label Consistency-Guided Sample Refinement for Noisy Correspondence Learning. In: <i>Proceedings of the 40th AAAI Conference on Artificial Intelligence (AAAI'26)<i>, Singapore, 2026, to appear. (<span style="color: #FF0000">CCF-A</span>) [Link] [Source Code] [D.o.C: 20–27. Jan. 2026, Issue Date: --]
 2. Ping He, Rong Xiao, Wanying Xu, Chenwei Tang, **Shudong Huang**, and Huajin Tang. S3Net: Spatiotemporally Separated Sparse Network for Neuromorphic Vision Processing. In: Proceedings of the 40th AAAI Conference on Artificial Intelligence (AAAI'26), Singapore, 2026, to appear. (<span style="color: #FF0000">CCF-A</span>) [Link] [Source Code] [D.o.C: 20–27. Jan. 2026, Issue Date: --]
-3. Ao Hu, Liangjian Wen, Jiang Duan, Yong Dai, Dongkai Wang, Shudong Huang, Jun Wang, and Zenglin Xu. FDNet: High-frequency Disentanglement Network with Information-theoretic Guidance for Multivariate Time Series Forecasting. <i>Pattern Recognition<i>, 2026, 173: 11 pages. [[Link]](https://www.sciencedirect.com/science/article/pii/S0031320325014736) [Source Code] [IF<sub>2025</sub>: 7.6] [Issue Date: May 2026]
+3. Ao Hu, Liangjian Wen, Jiang Duan, Yong Dai, Dongkai Wang, **Shudong Huang**, Jun Wang, and Zenglin Xu. FDNet: High-frequency Disentanglement Network with Information-theoretic Guidance for Multivariate Time Series Forecasting. <i>Pattern Recognition<i>, 2026, 173: 11 pages. [[Link]](https://www.sciencedirect.com/science/article/pii/S0031320325014736) [Source Code] [IF<sub>2025</sub>: 7.6] [Issue Date: May 2026]
 
 ## 2025
 1. Yifan Wang, Tao Wang, Chenwei Tang, Caiyang Yu, Zhengqing Zang, Mengmi Zhang, **Shudong Huang**, and Jiancheng Lv. Dual Prompt Learning for Adapting Vision-Language Models to Downstream Image-Text Retrieval. In: <i>Proceedings of the 33rd ACM International Conference on Multimedia (ACM MM'25)<i>, Dublin, lreland, 2025, pp: 5922-5931. (<span style="color: #FF0000">CCF-A</span>) [[Link]](https://dl.acm.org/doi/10.1145/3746027.3754713) [Source Code] [D.o.C: 27–31. Oct. 2025, Issue Date: 27. Oct. 2025]
@@ -101,6 +101,7 @@ author_profile: true
 Published 23 October 2017
 Date of Conference: 14-19 May 2017
 -->
+
 
 
 
