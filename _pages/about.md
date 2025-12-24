@@ -34,7 +34,7 @@ News
 - [11/2025] Two papers were accepted by AAAI'26. Congrats to all the collaborators!
 - [11/2025] I have been invited to be an Editorial Board member for the Discover Artificial Intelligence!
 - [10/2025] Congrats to Yang Liu's National Scholarship of China (国奖)!
-- [09/2025] I was honored as World's Top2% Scientists in 2025 ranked by Stanford University!
+- [09/2025] I was honored as World's Top2% Scientists in 2025 ranked by Stanford University & Elsevier!
 - [09/2025] I have been invited to be a PC member for the 14th International Conference on Learning Representations (ICLR'26)
 - [09/2025] I have been invited to be a PC member for the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'26)
 - [07/2025] I have been invited to be a PC member for the 40th AAAI Conference on Artificial Intelligence (AAAI'26).
@@ -56,7 +56,7 @@ News
 - [11/2024] I have been invited to be a SPC member for the 34th International Joint Conference on Artificial Intelligence (IJCAI'25).
 - [11/2024] "Variational Graph Generator for Multi-View Graph Clustering" was accepted by IEEE TNNLS. Congrats to all the collaborators! 
 - [09/2024] I have been promoted as a Senior Member of the China Computer Federation (CCF)!
-- [09/2024] I was honored as World's Top2% Scientists in 2024 ranked by Stanford University!
+- [09/2024] I was honored as World's Top2% Scientists in 2024 ranked by Stanford University & Elsevier!
 - [08/2024] I have been invited to be a PC member for the 13th International Conference on Learning Representations (ICLR'25).
 - [07/2024] One paper was accepted by ACM MM'24. Congrats to all the collaborators!
 - [06/2024] "Euclidean Distance Is Not Your Swiss Army Knife" was accepted by IEEE TKDE. Congrats to Yuze Tan and all the collaborators!
@@ -111,6 +111,7 @@ Basic Building B318, College of Computer Science, Sichuan University (Wangjiang 
 <!-- - [04/2024] 受邀担任[国家自然科学基金委](https://www.nsfc.gov.cn/)基金评审人. -->
 
 <!-- - [05/2022] 受邀担任[国家自然科学基金委](https://www.nsfc.gov.cn/)基金评审人. -->
+
 
 
 
