@@ -31,7 +31,7 @@ author_profile: true
 ## 2024
 1. **Shudong Huang**, Hecheng Cai, Hao Dai, Wentao Feng, and Jiancheng Lv. Adaptive Instance-wise Multi-view Clustering. In: <i>Proceedings of the 32nd ACM International Conference on Multimedia (ACM MM'24)<i>, Melbourne, Australia, 2024, pp: 5299-5307. (<span style="color: #FF0000">CCF-A</span>) [[Link]](https://dl.acm.org/doi/abs/10.1145/3664647.3681335) [Source Code] [D.o.C: 28. Oct.-01. Nov. 2024, Issue Date: 28. Oct. 2024]
 2. Yuze Tan, Yixi Liu, Hongjie Wu, **Shudong Huang***, Zenglin Xu, Ivor Tsang, and Jiancheng Lv. Euclidean Distance Is Not Your Swiss Army Knife. <i>IEEE Transactions on Knowledge and Data Engineering</i>, 2024, 36(12): 8179-8191. (<span style="color: #FF0000">CCF-A</span>) [[Link]](https://ieeexplore.ieee.org/abstract/document/10589275) [Source Code]  [IF<sub>2024</sub>: 8.9] [Issue Date: Dec. 2024]
-3. Hao Dai, Yang Liu, Peng Su, Hecheng Cai, **Shudong Huang***, and Jiancheng Lv. Multi-View Clustering by Inter-cluster Connectivity-Guided Reward. In: <i>Proceedings of the 41st International Conference on Machine Learning (ICML'24)<i>, Vienna, Austria, 2024, pp: 9846-9855. (<span style="color: #FF0000">CCF-A</span>) [[Link]](https://proceedings.mlr.press/v235/dai24b.html) [[Source Code]](https://github.com/huangsd/RL-MVC) [D.o.C: 21-27. Jul. 2024, Issue Date: 21. Jul. 2024] 
+3. Hao Dai, Yang Liu, Peng Su, Hecheng Cai, **Shudong Huang***, and Jiancheng Lv. Multi-View Clustering by Inter-cluster Connectivity-Guided Reward. In: <i>Proceedings of the 41st International Conference on Machine Learning (ICML'24)<i>, Vienna, Austria, 2024, 235: 9846-9855. (<span style="color: #FF0000">CCF-A</span>) [[Link]](https://proceedings.mlr.press/v235/dai24b.html) [[Source Code]](https://github.com/huangsd/RL-MVC) [D.o.C: 21-27. Jul. 2024, Issue Date: 21. Jul. 2024] 
 4. Peng Su, Yixi Liu, Shujian Li, **Shudong Huang***, and Jiancheng Lv. Robust Contrastive Multi-view Kernel Clustering. In: <i>Proceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI'24)<i>, Jeju, South Korea, 2024, pp: 4938-4945. (<span style="color: #FF0000">CCF-A</span>) [[Link]](https://www.ijcai.org/proceedings/2024/546) [Source Code] [D.o.C: 03-09. Aug. 2024, Issue Date: Aug. 2024] 
 5. Hecheng Cai, Yang Liu, **Shudong Huang***, and Jiancheng Lv. With a Little Help from Language: Semantic Enhanced Visual Prototype Framework for Few-Shot Learning. In: <i>Proceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI'24)<i>, Jeju, South Korea, 2024, pp: 3751-3759. (<span style="color: #FF0000">CCF-A</span>) [[Link]](https://www.ijcai.org/proceedings/2024/415) [Source Code] [D.o.C: 03-09. Aug. 2024, Issue Date: Aug. 2024]
 6. Song Wu, Yan Zheng, Yazhou Ren, Jing He, Xiaorong Pu, **Shudong Huang**, Zhifeng Hao, and Lifang He. Self-Weighted Contrastive Fusion for Deep Multi-View Clustering. <i>IEEE Transactions on Multimedia</i>, 2024, 26: 9150-9162. [[Link]](https://ieeexplore.ieee.org/document/10499831) [Source Code] [IF<sub>2024</sub>: 8.4] [Issue Date: 16. Apr. 2024]
@@ -101,6 +101,7 @@ author_profile: true
 Published 23 October 2017
 Date of Conference: 14-19 May 2017
 -->
+
 
 
 
