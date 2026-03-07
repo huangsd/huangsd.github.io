@@ -26,6 +26,7 @@ author_profile: true
 9. Yang Liu, Mengyuan Liu, **Shudong Huang**, and Jiancheng Lv. Asymmetric Visual Semantic Embedding Framework for Efficient Vision-Language Alignment. In: <i>Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI'25)<i>, Philadelphia, USA, 2025, 39(6): 5676-5684. (<span style="color: #FF0000">CCF-A</span>) [[Link]](https://ojs.aaai.org/index.php/AAAI/article/view/32605) [[Source Code]](https://github.com/liuyyy111/AVSE) [D.o.C: 25. Feb.–04. Mar. 2025, Issue Date: 11. Apr. 2025]
 10. Peng Su, **Shudong Huang***, Weihong Ma, Deng Xiong, and Jiancheng Lv. Multi-view Granular-ball Contrastive Clustering. In: <i>Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI'25)<i>, Philadelphia, USA, 2025, 39(19): 20637-20645. (<span style="color: #FF0000">CCF-A</span>) [[Link]](https://ojs.aaai.org/index.php/AAAI/article/view/34274) [[Source Code]](https://github.com/Duo-laimi/mgbcc_main) [D.o.C: 25. Feb.–04. Mar. 2025, Issue Date: 11. Apr. 2025]
 11. Jianpeng Chen, Yawen Ling, Jie Xu, Yazhou Ren, **Shudong Huang**, Xiaorong Pu, Zhifeng Hao, Philip S. Yu, and Lifang He. Variational Graph Generator for Multi-View Graph Clustering. <i>IEEE Transactions on Neural Networks and Learning Systems<i>, 2025, 36(6): 11078-11091. [[Link]](https://ieeexplore.ieee.org/document/10833915) [Source Code] [IF<sub>2024</sub>: 10.2] [Issue Date: Jun. 2025]
+12. Qian Qu, Quan-Hui Liu, Jian Gao, **Shudong Huang**, Wentao Feng, Zhongtao Yue, Xin Lu, Tao Zhou, and Jiancheng Lv. Gender Differences in Resume Language and Gender Gaps in Salary Expectations. <i>Journal of the Royal Society Interface<i>, 2025, 22(227): 10 pages. [[Link]](https://royalsocietypublishing.org/rsif/article/22/227/20240784/235886) [Source Code] [IF<sub>2025</sub>: 3.5] [Issue Date: 04. Jun. 2025]
 
 ## 2024
 1. **Shudong Huang**, Hecheng Cai, Hao Dai, Wentao Feng, and Jiancheng Lv. Adaptive Instance-wise Multi-view Clustering. In: <i>Proceedings of the 32nd ACM International Conference on Multimedia (ACM MM'24)<i>, Melbourne, Australia, 2024, pp: 5299-5307. (<span style="color: #FF0000">CCF-A</span>) [[Link]](https://dl.acm.org/doi/abs/10.1145/3664647.3681335) [Source Code] [D.o.C: 28. Oct.-01. Nov. 2024, Issue Date: 28. Oct. 2024]
@@ -100,6 +101,7 @@ author_profile: true
 Published 23 October 2017
 Date of Conference: 14-19 May 2017
 -->
+
 
 
 
