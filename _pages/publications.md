@@ -11,7 +11,7 @@ author_profile: true
 
 ## 2026
 1. Zhuoyao Liu, Yang Liu, Wentao Feng, and **Shudong Huang***. PCSR: Pseudo-label Consistency-Guided Sample Refinement for Noisy Correspondence Learning. In: <i>Proceedings of the 40th AAAI Conference on Artificial Intelligence (AAAI'26)<i>, Singapore, 2026, 40(28): 24008-24016. (<span style="color: #FF0000">CCF-A</span>) [[Link]](https://ojs.aaai.org/index.php/AAAI/article/view/39578) [Source Code] [D.o.C: 20–27. Jan. 2026, Issue Date: 14. Mar. 2026]
-2. Ping He, Rong Xiao, Wanying Xu, Chenwei Tang, **Shudong Huang**, and Huajin Tang. S3Net: Spatiotemporally Separated Sparse Network for Neuromorphic Vision Processing. In: Proceedings of the 40th AAAI Conference on Artificial Intelligence (AAAI'26), Singapore, 2026, to appear. (<span style="color: #FF0000">CCF-A</span>) [Link] [Source Code] [D.o.C: 20–27. Jan. 2026, Issue Date: 14. Mar. 2026]
+2. Ping He, Rong Xiao, Wanying Xu, Chenwei Tang, **Shudong Huang**, and Huajin Tang. S3Net: Spatiotemporally Separated Sparse Network for Neuromorphic Vision Processing. In: Proceedings of the 40th AAAI Conference on Artificial Intelligence (AAAI'26), Singapore, 2026, 40(6): 4663-4671. (<span style="color: #FF0000">CCF-A</span>) [[Link]](https://ojs.aaai.org/index.php/AAAI/article/view/42467) [Source Code] [D.o.C: 20–27. Jan. 2026, Issue Date: 14. Mar. 2026]
 3. Ao Hu, Liangjian Wen, Jiang Duan, Yong Dai, Dongkai Wang, **Shudong Huang**, Jun Wang, and Zenglin Xu. FDNet: High-frequency Disentanglement Network with Information-theoretic Guidance for Multivariate Time Series Forecasting. <i>Pattern Recognition<i>, 2026, 173: 11 pages. [[Link]](https://www.sciencedirect.com/science/article/pii/S0031320325014736) [Source Code] [IF<sub>2025</sub>: 7.6] [Issue Date: May 2026]
 
 ## 2025
