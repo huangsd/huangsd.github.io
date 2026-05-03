@@ -27,6 +27,7 @@ I have broad interest in *Representation Learning*, *Machine Learning*, *Data Mi
 News
 ------
 - <span style="color: #FF0000">I'm always looking for highly motivated Ph.D students, Postdoctorals and Assistant Professors to conduct frontier research in our team. If interested, please drop me an email with your full CV and a research plan releated to my research interest.</span>
+- [04/2026] Two papers were accepted by ICML'26. Congrats to Zhiwen Cao, Yang Liu, and all the collaborators!
 - [02/2026] I have been invited to be an Area Chair for the 34th ACM International Conference on Multimedia (ACM MM'26).
 - [01/2026] I have been invited to be a SPC member for the 35th International Joint Conference on Artificial Intelligence (IJCAI'26)
 - [12/2025] I have been invited to be a PC member for the 43rd International Conference on Machine Learning (ICML'26)
