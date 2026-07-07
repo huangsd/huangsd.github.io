@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Welcome to my homepage! \
-I'm currently an associate professor (副教授/博导) with the College of Computer Science, Sichuan University, Chengdu, China. I'm also a member of [DICALab](https://dicalab.cn/) (Data Intelligence and Computing Arts Lab), which is led by Prof. [Jiancheng Lv (吕建成)](https://cs.scu.edu.cn/info/1303/13767.htm) and Prof. [Xi Peng (彭玺)](https://ai.scu.edu.cn/info/1235/1144.htm). I obtained my Ph.D. degree from School of Computer Science and Engineering, University of Electronic Science and Technology of China (UESTC) in Dec. 2019, where I was very fortunate to be advised by Prof. [Zenglin Xu (徐增林)](https://ai3.fudan.edu.cn/info/1088/1754.htm). 
+I'm currently an associate professor (副教授/博导) with the College of Computer Science, Sichuan University, Chengdu, China. I'm also a member of [DICALab](https://dicalab.cn/) (Data Intelligence and Computing Arts Lab), which is led by Prof. [Jiancheng Lv (吕建成)](https://cs.scu.edu.cn/info/1303/13767.htm). I obtained my Ph.D. degree from School of Computer Science and Engineering, University of Electronic Science and Technology of China (UESTC) in Dec. 2019, where I was very fortunate to be advised by Prof. [Zenglin Xu (徐增林)](https://ai3.fudan.edu.cn/info/1088/1754.htm). 
 
 I have broad interest in *Representation Learning*, *Machine Learning*, *Data Mining* and their potential applications to multimedia data. I am specifically interested in
 - **Representation Learning**: developing *unified theory* in data mining, computer vision, natural language processing, etc;
@@ -23,6 +23,7 @@ I have broad interest in *Representation Learning*, *Machine Learning*, *Data Mi
 <!--
 - spanning the areas of Artificial Intelligence, Data Science, Optimization, ...
 I've moved to the School of Artificial Intelligence, welcome to ...
+and Prof. [Xi Peng (彭玺)](https://ai.scu.edu.cn/info/1235/1144.htm)
 -->
 
 News
