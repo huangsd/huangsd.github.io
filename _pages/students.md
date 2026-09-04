@@ -17,10 +17,11 @@ Students:
 * Jiazhong Zhou &#160; Ph.D Student &#8195; Sep. 2025- &#8195; AI4Science (Co-advised with Prof. [Jianfeng Liu](https://cwrh.scu.edu.cn/info/1044/1993.htm))
 * Qianfei Dan &#8194; &#160;&#160; Ph.D Student &#8195; Sep. 2026- &#8195; AI4Science (Co-advised with Prof. [Jianfeng Liu](https://cwrh.scu.edu.cn/info/1044/1993.htm))
 * Yixian Liu &#8194;&#8194;&#160;&#160; &#160;&#160; Ph.D Student &#8195; Sep. 2026- &#8195; AI4Science (Co-advised with Prof. [Jianfeng Liu](https://cwrh.scu.edu.cn/info/1044/1993.htm))
-* Ruijie Xiao &#8194; &#160;&#160; &#160; Ph.D Student &#8195; Sep. 2026- &#8195; Multimodal Causal Learning
-* Yiqiang Xu  &#8194; &#160;&#160; &#160; M.Sc. Student &#8195; Sep. 2026- &#8195; Multimodal Granular-ball Computing
-* Zhuoxin Liu  &#8194; &#160; &#160; M.Sc. Student &#8195; Sep. 2026- &#8195; Multimodal Granular-ball Computing
-* Juan Huang  &#8194; &#160; &#160; M.Sc. Student &#8195; Sep. 2026- &#8195; Multimodal Granular-ball Computing
+* Jingyu Xing &#8194; &#160;&#160; Ph.D Student &#8195; Sep. 2026- &#8195; Reinforcement Learning (Co-advised with Prof. [Chenwei Tang](https://cs.scu.edu.cn/info/1283/18071.htm))
+* Ruijie Xiao &#8194; &#160;&#160;&#160;&#160; Ph.D Student &#8195; Sep. 2026- &#8195; Multimodal Causal Learning
+* Yiqiang Xu  &#8194; &#160;&#160;&#160; M.Sc. Student &#8195; Sep. 2026- &#8195; Multimodal Granular-ball Computing
+* Zhuoxin Liu  &#8194; &#160;&#160; M.Sc. Student &#8195; Sep. 2026- &#8195; Multimodal Granular-ball Computing
+* Juan Huang  &#8194; &#160;&#160; M.Sc. Student &#8195; Sep. 2026- &#8195; Multimodal Granular-ball Computing
 
 Alumni:
 ------
