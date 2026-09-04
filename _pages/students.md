@@ -15,7 +15,10 @@ Students:
 * Zhaoxin Zhu &#8194; &#160; Ph.D Student &#8195; Sep. 2025- &#8195; Multimodal Causal Learning (Co-advised with Prof. [Quanhui Liu](https://cs.scu.edu.cn/info/1283/13568.htm))
 * Jing Gong &#8194; &#8194; &#8194; Ph.D Student &#8195; Sep. 2025- &#8195; Multimodal Data Mining (Jointly offered by the Sichuan University and [Sichuan Provincial Big Data Center](https://www.scdsjzx.cn/))
 * Jiazhong Zhou &#160; Ph.D Student &#8195; Sep. 2025- &#8195; AI4Science (Co-advised with Prof. [Jianfeng Liu](https://cwrh.scu.edu.cn/info/1044/1993.htm))
-* Ruijie Xiao &#8194; &#160;&#160; &#160; Ph.D Student &#8195; Sep. 2026- &#8195; Multimodal Causal Learning 
+* Ruijie Xiao &#8194; &#160;&#160; &#160; Ph.D Student &#8195; Sep. 2026- &#8195; Multimodal Causal Learning
+* Yiqiang Xu  &#8194; &#160;&#160; &#160; M.Sc. Student &#8195; Sep. 2026- &#8195; Multimodal Granular-ball Computing
+* Zhuoxin Liu  &#8194; &#160;&#160; &#160; M.Sc. Student &#8195; Sep. 2026- &#8195; Multimodal Granular-ball Computing
+* Juan Huang  &#8194; &#160;&#160; &#160; M.Sc. Student &#8195; Sep. 2026- &#8195; Multimodal Granular-ball Computing
 
 Alumni:
 ------
