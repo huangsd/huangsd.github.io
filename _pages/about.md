@@ -29,6 +29,8 @@ and Prof. [Xi Peng (彭玺)](https://ai.scu.edu.cn/info/1235/1144.htm)
 News
 ------
 - <span style="color: #FF0000">I'm always looking for highly motivated M.S students, Ph.D students, Postdoctorals and Assistant Professors to conduct frontier research in our team. If interested, please drop me an email with your full CV and a research plan releated to my research interest.</span>
+- [08/2026] I have been invited to be a PC member for the 15th International Conference on Learning Representations (ICLR'27).
+- [07/2026] "Ego-LM: Prompting Frozen Language Models for Multi-modal Egocentric Action Recognition" was accepted by Pattern Recognition. Congrats to all the collaborators!
 - [06/2026] I have been invited to be an Area Chair for the 14th International Conference on Image and Graphics (ICIG'26).
 - [06/2026] I have been invited to be a PC member for the 41st AAAI Conference on Artificial Intelligence (AAAI'27).
 - [04/2026] Two papers were accepted by ICML'26. Congrats to Zhiwen Cao, Yang Liu, and all the collaborators!
