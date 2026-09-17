@@ -33,6 +33,7 @@ News
 - [07/2026] "Ego-LM: Prompting Frozen Language Models for Multi-modal Egocentric Action Recognition" was accepted by Pattern Recognition. Congrats to all the collaborators!
 - [06/2026] I have been invited to be an Area Chair for the 14th International Conference on Image and Graphics (ICIG'26).
 - [06/2026] I have been invited to be a PC member for the 41st AAAI Conference on Artificial Intelligence (AAAI'27).
+- [05/2026] Congrats to Peng Su, Hao Dai, and Rui Huang. Master's thesis defense was held successfully!
 - [04/2026] Two papers were accepted by ICML'26. Congrats to Zhiwen Cao, Yang Liu, and all the collaborators!
 - [02/2026] I have been invited to be an Area Chair for the 34th ACM International Conference on Multimedia (ACM MM'26).
 - [01/2026] I have been invited to be a SPC member for the 35th International Joint Conference on Artificial Intelligence (IJCAI'26)
