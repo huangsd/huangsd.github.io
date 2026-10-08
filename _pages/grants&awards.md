@@ -18,8 +18,9 @@ author_profile: true
 * 国家科技部科技创新2030重大项目, 2020.01-2023.12, 参与
 
 ## Awards
+* World's Top2% Scientists ranked by Stanford University, 2024-2026.
+* 2025年度四川省自然科学一等奖 (4/5), 2026.
 * 四川大学"双百人才工程"计划入选者, 2026.
-* World's Top2% Scientists in 2024/2025 ranked by Stanford University, 2024-2025.
 * 四川大学本科优秀毕业论文指导老师, 2022.
 * 四川大学第六届"德渥群芳"育人文化建设标兵团队, 2021.
 * 四川省优秀博士毕业生, 2020.
