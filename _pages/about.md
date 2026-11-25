@@ -65,7 +65,8 @@ News
 - [11/2024] Congrats to Hecheng Cai's National Scholarship of China (国奖)! 
 - [11/2024] Congrats to Peng Su's National Scholarship of China (国奖)! Note that he is one of the students of Grade 2023 who won this award.
 - [11/2024] I have been invited to be a SPC member for the 34th International Joint Conference on Artificial Intelligence (IJCAI'25).
-- [11/2024] "Variational Graph Generator for Multi-View Graph Clustering" was accepted by IEEE TNNLS. Congrats to all the collaborators! 
+- [11/2024] "Variational Graph Generator for Multi-View Graph Clustering" was accepted by IEEE TNNLS. Congrats to all the collaborators!
+- [10/2024] I have been promoted to [CCF Senior Member](https://www.ccf.org.cn/Membership/Individual_member/Only/2024-09-23/830233.shtml).
 - [09/2024] I have been promoted as a Senior Member of the China Computer Federation (CCF)!
 - [09/2024] I was honored as World's Top2% Scientists in 2024 ranked by Stanford University & Elsevier!
 - [08/2024] I have been invited to be a PC member for the 13th International Conference on Learning Representations (ICLR'25).
